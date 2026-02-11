@@ -86,3 +86,7 @@ python gemini_api.py
 ```
 
 Si la configuración es exitosa, verás en la consola la respuesta generada por el modelo de IA.
+<<<<<<< HEAD
+=======
+<img width="1002" height="636" alt="image" src="https://github.com/user-attachments/assets/ab7163b3-da79-4392-94fa-f8e8429df791" />
+>>>>>>> 1608aa5ed45e93d329b47936ee5d2f0b1e6fccfb
